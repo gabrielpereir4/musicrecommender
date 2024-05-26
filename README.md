@@ -1,1 +1,1 @@
-Use a "credentials.txt" file for providing Spotify's API key
+Use a "credentials.txt" file for providing Spotify's API key and secret
